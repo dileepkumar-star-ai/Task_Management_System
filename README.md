@@ -46,7 +46,8 @@ Open your web browser and navigate to: http://127.0.0.1:5000
 Use these preset parameters to clear the authentication step on the login screen:
 
 Admin ID: admin
-
 Password: admin123
-Created By:
+
+
+###Created By:
 Dileep Kumar
